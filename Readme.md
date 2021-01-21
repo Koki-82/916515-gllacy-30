@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Konstantin Kirchev](https://up.htmlacademy.ru/htmlcss/30/user/916515).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев] (https://htmlacademy.ru/profile/id252055)/
 
 ---
 
